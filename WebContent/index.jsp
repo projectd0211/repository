@@ -3,4 +3,4 @@
     pageEncoding="UTF-8"%>
 <jsp:forward page="/login.net"/>
 
-여기가 바뀜ㅁㄴㅁㄴ
+연지가 바꿈
