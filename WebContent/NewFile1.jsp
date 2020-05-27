@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-연지가 수정합니다
+
 </body>
 </html>
